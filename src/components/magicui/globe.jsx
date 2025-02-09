@@ -7,7 +7,7 @@ import { useSpring } from "react-spring";
 import { cn } from "@/lib/utils";
 
 const GLOBE_CONFIG = {
-  width: 800,
+  width: 700,
   height: 800,
   onRender: () => {},
   devicePixelRatio: 2,
