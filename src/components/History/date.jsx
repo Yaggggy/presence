@@ -11,7 +11,6 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "@/components/ui/popover"
-
 export function DatePickerDemo({ date, setDate }) {
   const handleDateSelect = (selectedDate) => {
     if (selectedDate) {
@@ -22,7 +21,6 @@ export function DatePickerDemo({ date, setDate }) {
       setDate(null);
     }
   };
-
   return (
     <Popover>
       <PopoverTrigger asChild>
