@@ -8,7 +8,7 @@ import { cn } from "@/lib/utils";
 
 const GLOBE_CONFIG = {
   width: 700,
-  height: 800,
+  height: 700,
   onRender: () => {},
   devicePixelRatio: 2,
   phi: 0,
