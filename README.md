@@ -18,6 +18,11 @@
 - **Database**: MongoDB
 - **Geolocation Services**: Integrated with [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API) for accurate location tracking.
 
+
+##Screenshots
+
+
+
 ## Installation
 
 ### Prerequisites
