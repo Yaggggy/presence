@@ -1,5 +1,3 @@
-# presence
-
 # Presence
 
 **Presence** is a geolocation-based attendance tracking web application designed to streamline and automate the process of recording attendance by leveraging users' geographic locations.
@@ -21,6 +19,11 @@
 
 ##Screenshots
 
+
+![Screenshot 2024-12-06 005134](https://github.com/user-attachments/assets/c29c9660-21a2-4e4c-83e5-4dabe226e43a)
+
+
+![Screenshot 2024-12-06 005154](https://github.com/user-attachments/assets/9627dbd4-29e6-418b-820e-3097d2b700e8)
 
 
 ## Installation
